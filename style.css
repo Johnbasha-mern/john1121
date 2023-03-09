@@ -1,0 +1,36 @@
+.container {
+	margin: 50px auto;
+	text-align: center;
+    /* background-color: #007bff; */
+}
+
+h1 {
+	font-size: 36px;
+    color:darkmagenta;
+}
+
+.display {
+	margin: 50px 0;
+	font-size: 72px;
+	font-weight: bold;
+    /* background-color: green; */
+}
+
+.controls {
+	margin-bottom: 50px;
+}
+
+button {
+	padding: 10px 20px;
+	font-size: 18px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	margin-right: 10px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #0069d9;
+}
